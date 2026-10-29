@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan to remove all default pre-loaded study logs, YouTube lectures, test attempts, and curated questions from CrackGate, resetting all official GATE syllabus subjects and chapters to 0% progress (0 studied hours, not_started status) and streamlining the Mock Test Arena around AI-generated and PDF-uploaded chapter tests.",
+  "updatedAt":  "2026-10-28T15:29:03.038449718Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

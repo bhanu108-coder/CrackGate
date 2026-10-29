@@ -1,0 +1,6 @@
+{
+  "name": "GATE Pulse",
+  "description": "Multi-branch GATE exam preparation workspace with daily study progress logging, subject-wise MCQ/MSQ/NAT mock tests, curated YouTube lecture tracking, and AI-powered weak-area analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
